@@ -1,0 +1,15 @@
+C:\Users\fade\source\repos\csv_ser\csv_ser\bin\Debug\net6.0\csv_ser.exe
+C:\Users\fade\source\repos\csv_ser\csv_ser\bin\Debug\net6.0\csv_ser.deps.json
+C:\Users\fade\source\repos\csv_ser\csv_ser\bin\Debug\net6.0\csv_ser.runtimeconfig.json
+C:\Users\fade\source\repos\csv_ser\csv_ser\bin\Debug\net6.0\csv_ser.dll
+C:\Users\fade\source\repos\csv_ser\csv_ser\bin\Debug\net6.0\csv_ser.pdb
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.csproj.AssemblyReference.cache
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.AssemblyInfoInputs.cache
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.AssemblyInfo.cs
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.csproj.CoreCompileInputs.cache
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.dll
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\refint\csv_ser.dll
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.pdb
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\csv_ser.genruntimeconfig.cache
+C:\Users\fade\source\repos\csv_ser\csv_ser\obj\Debug\net6.0\ref\csv_ser.dll
