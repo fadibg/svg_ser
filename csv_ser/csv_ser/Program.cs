@@ -66,7 +66,7 @@ class read_and_search
                 var colom = columns[0].Split(',');
                 t1=colom[columnNumber].ToUpper();
                 t2=searchKey.ToUpper();
-                if (String.Compare(t1,0,t2,0,t1.Length,false)==0)
+                if (contains(t1,t2))
                 {
                     matchingLines.Add(line);
                 }
@@ -91,6 +91,43 @@ class read_and_search
         }
 
         return arr;
+    }
+    private bool contains(string s, string se)
+    {
+        int word_start = s.IndexOf(se[0]), se_num = 0, i = 0;
+        bool test = false;
+        try
+        {
+            if (s.Length == se.Length - 1)
+            {
+                if (String.Compare(s, 0, se, 0, s.Length, false) == 0)
+                {
+                    test = true;
+                }
+
+
+            }
+            else if (word_start >= 0&&s.Length>se.Length-1)
+            {
+                for (i = word_start; i < se.Length-1; i++)
+                {
+                    if (se[se_num] == s[i]) { test = true; }
+                    else
+                    {
+                        test = false;
+                    }
+                    se_num++;
+                }
+                
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("in contains" + ex);
+        }
+        return test;
+
+
     }
     private void save_in_file(string[] lines)
     {
